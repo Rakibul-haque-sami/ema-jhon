@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+    margin-top: 20px;
+}
+.logo{
+    height: 50px;
+}
+.header nav {
+    background-color: black;
+    line-height: 45px;
+    margin-top: 10px;
+    
+}
+.header nav a{
+    text-decoration: none;
+    color:white;
+    margin-right: 30px;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+.header nav a:hover{
+    background-color: rgb(23, 54, 194);
+   
+}
+.input-feild{
+    width: 100%;
+    padding: 20px;
+    background-color: #222;
+}
+.input{
+    width: 60%;
+    padding: 10px;
+    border-radius: 10px;
+}
